@@ -7,4 +7,4 @@ Playtest my Prototype game [here](Prototype/The Explorer.html)
 
 ## playtest
 
-Playtest my game [here]
+Playtest my game [here](https://raw.githubusercontent.com/CameronCascagnette/IASC-1P04/main/Prototype/The%20Explorer.html)
