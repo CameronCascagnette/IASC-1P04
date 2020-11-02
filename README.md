@@ -7,4 +7,4 @@ Playtest my Prototype game [here](Prototype/The Explorer.html)
 
 ## playtest
 
-Playtest my game [here]: Prototype/The Explorer.html
+Playtest my game [here]
